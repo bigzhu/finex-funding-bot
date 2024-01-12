@@ -8,6 +8,7 @@ lazy_static! {
         m.insert("SOL".to_string(), 1.0);
         m.insert("BTC".to_string(), 0.00002);
         m.insert("USDT".to_string(), 150.0);
+        m.insert("UST".to_string(), 150.0);
         m
     };
 }
